@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there! I'm a Computer Engineering student at McGill University. 
+
+Welcome to my Github page:
+
